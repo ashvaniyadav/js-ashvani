@@ -76,11 +76,18 @@ console.log(gameCounter);
 // console.log(weTakeNumber);
 // console.log(typeof weTakeNumber);
 
-let runs = "Ashvani Yadav";
- let myRuns = Number (runs);
+// let runs = "Ashvani Yadav";
+//  let myRuns = Number (runs);
 
- console.log(myRuns);
- console.log(typeof myRuns);
+//  console.log(myRuns);
+//  console.log(typeof myRuns);
+
+// console.log("markes",147 / 180 * 100);
+ let strN1 = "Hello"
+ let strN2 = " Ashvani Yadav"
+ let strN3 = strN1 + strN2
+ 
+ console.log (strN3);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
